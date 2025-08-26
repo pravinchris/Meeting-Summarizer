@@ -1,0 +1,20 @@
+streamlit
+faster-whisper
+openai-whisper
+whisperx==3.1.1
+ollama
+pyannote.audio==1.1.1
+torch
+torchaudio
+speechbrain
+resemblyzer
+spacy
+ffmpeg-python
+pandas
+numpy<2.0
+scikit-learn
+
+# Export dependencies
+python-docx>=0.8.11
+reportlab>=3.6.0
+openpyxl>=3.0.0
